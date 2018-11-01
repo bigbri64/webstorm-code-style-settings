@@ -1,4 +1,4 @@
-# WebStorm editor configuration settings project (https://angular.io)
+# WebStorm editor configuration settings project
 
 This project contains archived configuration settings for WebStorm, including:
 * Archived configuration settings with custom settings for
